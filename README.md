@@ -19,8 +19,4 @@
 * [**Ghasem Sadeghi**](https://github.com/ghasem-sadeghi) programming for wordpress
 
 
-### All rights reserved ###
-Please note that IronArts.ir is a curated site and that we reserve the right to refuse any listing for any reason.
-
-
 Produced by 1schools students network (summer 2012)
